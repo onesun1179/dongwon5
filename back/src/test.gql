@@ -1,0 +1,19 @@
+mutation {
+    updateByNameInitialValue(name: "appSideMenuWidth", payload: { value: "20px"}) {
+        id
+    }
+}
+
+
+mutation {
+    updateByIdInitialValue(id: 0, payload: { value: "20px"}) {
+        id
+    }
+}
+
+
+query {
+    login(email : "t", password: "tt") {
+        result
+    }
+}

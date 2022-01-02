@@ -1,0 +1,5 @@
+back/node_modules
+front/node_modules
+front/.next
+unitsoft/node_modules
+unitsoft/.cache
