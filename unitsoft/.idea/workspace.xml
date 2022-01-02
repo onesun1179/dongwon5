@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ca6fc19-4c28-4b92-acff-729642f23f52" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.env.development" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.graphqlconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/AppHeader.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/AppLayout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gatsby-plugin-apollo/client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gatsby-plugin-apollo/gql/client/user/user.mutation.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gatsby-plugin-apollo/gql/client/user/user.query.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gatsby-plugin-apollo/gql/client/user/user.type.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gatsby-plugin-apollo/gql/server/server.mutation.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gatsby-plugin-apollo/gql/server/server.query.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../back/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../back/.idea/codestream.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -62,7 +42,7 @@
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="236Ty4JgsRrLpqVBkFQ1cYDuOmV" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -73,7 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../back" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -123,6 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1641053789570</updated>
       <workItem from="1641053794362" duration="29362000" />
+      <workItem from="1641150054574" duration="3118000" />
     </task>
     <servers />
   </component>
